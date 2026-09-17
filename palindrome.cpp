@@ -32,4 +32,6 @@ int main(){
         bool result = isPalindrome(num);
         cout << boolalpha << result << endl;
     }
+
+    return 0;
 }
